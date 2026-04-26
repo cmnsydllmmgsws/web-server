@@ -3,8 +3,8 @@
 Comp 2322 Multi-thread Web Server
 =================================
 
-Language: Python 3
-Platform: Windows / macOS / Linux
+Language: Python
+Platform: Windows
 
 How to Run:
 1. Make sure you have Python installed.
